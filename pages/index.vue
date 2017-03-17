@@ -7,6 +7,9 @@
     <nuxt-link class="button" to="/about">
       About page
     </nuxt-link>
+    <nuxt-link class="button" to="/test">
+      test
+    </nuxt-link>
   </section>
 </template>
 
