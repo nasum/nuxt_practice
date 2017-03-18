@@ -3,6 +3,9 @@
     <h1 class="title">
       Test
     </h1>
+    <nuxt-link class="button" to="/">
+      Home page
+    </nuxt-link>
   </section>
 </template>
 <script>
