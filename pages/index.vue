@@ -10,6 +10,7 @@
     <nuxt-link class="button" to="/test">
       test
     </nuxt-link>
+    <button @click="$store.commit('increment')">{{ $store.state.counter }}</button>
   </section>
 </template>
 
